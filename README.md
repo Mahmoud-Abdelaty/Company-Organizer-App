@@ -16,8 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 #  C o m p a n y - O r g a n i z e r - A p p 
  
- #   C o m p a n y - O r g a n i z e r - A p p 
- 
- #   C o m p a n y - O r g a n i z e r - A p p 
  
  
